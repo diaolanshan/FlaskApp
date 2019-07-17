@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa282f98-9cc9-47a5-96db-c3b107d457ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry-point.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/.idea/daikin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/daikin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/daikin/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/daikin/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/db/Dump20190711.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/models/Models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/responsive.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/responsive.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/select.semanticui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/semantic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/stock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/brand-icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/brand-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/brand-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/brand-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/brand-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/icons.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/outline-icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/outline-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/outline-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/outline-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/fonts/outline-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/css/themes/default/assets/images/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/administrator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/chuku.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/pandian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/ruku.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/img/supergfx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/buttons.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/dataTables.buttons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/dataTables.responsive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/dataTables.select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/responsive.semanticui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/semantic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/static/js/stock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/boxes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/in_scanner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/out_scanner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/searchperbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/searchpertier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/stockin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/stockout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/stocktaking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/taking_scanner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daikin/templates/tiers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoschNBIoT" beforeDir="false" afterPath="$PROJECT_DIR$/../BoschNBIoT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osiautomaticcf" beforeDir="false" afterPath="$PROJECT_DIR$/../osiautomaticcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyig" beforeDir="false" afterPath="$PROJECT_DIR$/../pyig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-rabbitmq-cf" beforeDir="false" afterPath="$PROJECT_DIR$/../python-rabbitmq-cf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recollect" beforeDir="false" afterPath="$PROJECT_DIR$/../recollect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smoketest-py" beforeDir="false" afterPath="$PROJECT_DIR$/../smoketest-py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smoketest_solace" beforeDir="false" afterPath="$PROJECT_DIR$/../smoketest_solace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-availablity" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-availablity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-pcf-demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-pcf-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-pcf-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-pcf-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-pcf-demo/python-amqp-solace" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-pcf-demo/python-amqp-solace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-pcf-demo/python-mqtt-solace" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-pcf-demo/python-mqtt-solace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-pcf-demo/python-rest-solace" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-pcf-demo/python-rest-solace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-rtview-webhook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-rtview-webhook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-rtview-webhook/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-rtview-webhook/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-rtview-webhook/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-rtview-webhook/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-rtview-webhook/services.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-rtview-webhook/web_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-rtview-webhook/web_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solace-rtview-webhook/wrapper.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../solace-rtview-webhook/wrapper.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock-github/stock" beforeDir="false" afterPath="$PROJECT_DIR$/../stock-github/stock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/learning/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/learning/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/models/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/models/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/static/css/zeissml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/static/img/bigdata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/static/js/circles.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/static/js/form.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stock/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/templates/model_update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/templates/prediction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock/templates/prediction_result.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entry-point.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/app/app.py" />
+        <option value="$PROJECT_DIR$/app.ini" />
+        <option value="$PROJECT_DIR$/nginx.conf" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/entry-point.sh" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/FlaskApp.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1870" />
+    <option name="y" value="216" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FlaskApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlaskApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zer8szh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa282f98-9cc9-47a5-96db-c3b107d457ff" name="Default Changelist" comment="" />
+      <created>1563325761825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563325761825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1186" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13090129" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989259" weight="0.32934132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948052" weight="0.15024391" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785176" weight="0.569161" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946293" visible="true" weight="0.3287805" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5051948" side_tool="true" weight="0.34199134" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entry-point.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
